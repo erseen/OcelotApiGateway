@@ -1,0 +1,33 @@
+{
+  "Routes": [
+    {
+      //main address
+      "DownstreamPathTemplate": "/api/rezervation/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          //It has to same number with rezervation address
+          "Host": "localhost",
+          "Port": 9000
+        }
+      ],
+      ///that will be redirect to downstream (that adress  goes to downstream adress)
+      "UpstreamPathTemplate": "/r/{id}",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/contact/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          //It has to same number with contact address
+          "Host": "localhost",
+          "Port": 7000
+        }
+      ],
+      "UpstreamPathTemplate": "/c/{id}",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+
+  ]
+}

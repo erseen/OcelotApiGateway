@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReservationApi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "RezervationApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "ReservationApi.Infrastructure.dll": {}
+        }
+      },
+      "RezervationApi.Models/1.0.0": {
+        "runtime": {
+          "RezervationApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservationApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RezervationApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

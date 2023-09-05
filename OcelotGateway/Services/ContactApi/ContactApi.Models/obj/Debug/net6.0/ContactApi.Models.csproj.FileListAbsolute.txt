@@ -1,0 +1,22 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\refint\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ref\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\refint\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Models\obj\Debug\net6.0\ref\ContactApi.Models.dll

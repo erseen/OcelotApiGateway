@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yByiutSmjn7YOeeKB4mOClwjTPQG9Kfq48OsHRnMHM8kysImRiUX8dPuR05owuiKQfTwHH7lClLYE6sSxLF1Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ersen\\Desktop\\Ocelot\\OcelotGateway\\Services\\RestApi\\RezervationApi\\RezervationApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ersen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ersen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ersen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ersen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ersen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ersen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

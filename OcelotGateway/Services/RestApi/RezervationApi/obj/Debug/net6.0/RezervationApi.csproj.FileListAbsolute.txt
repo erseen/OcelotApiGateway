@@ -1,0 +1,76 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.exe
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.runtimeconfig.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.RezervationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.RezervationApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RezervationApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RezervationApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\scopedcss\bundle\RezervationApi.styles.css
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\refint\RezervationApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.genruntimeconfig.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\obj\Debug\net6.0\ref\RezervationApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\ReservationApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\ReservationApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.exe
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.runtimeconfig.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\ReservationApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\ReservationApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\bin\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.RezervationApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.build.RezervationApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RezervationApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RezervationApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\scopedcss\bundle\RezervationApi.styles.css
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\refint\RezervationApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\RezervationApi.genruntimeconfig.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\RestApi\RezervationApi\obj\Debug\net6.0\ref\RezervationApi.dll

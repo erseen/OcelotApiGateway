@@ -1,0 +1,34 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\refint\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ref\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\refint\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi.Services\obj\Debug\net6.0\ref\ContactApi.Services.dll

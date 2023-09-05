@@ -1,0 +1,76 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.exe
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.runtimeconfig.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.ContactApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactApi.props
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\scopedcss\bundle\ContactApi.styles.css
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\refint\ContactApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.genruntimeconfig.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\obj\Debug\net6.0\ref\ContactApi.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.exe
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.runtimeconfig.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\bin\Debug\net6.0\ContactApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.ContactApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactApi.props
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\scopedcss\bundle\ContactApi.styles.css
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\refint\ContactApi.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ContactApi.genruntimeconfig.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\ContactApi\ContactApi\obj\Debug\net6.0\ref\ContactApi.dll

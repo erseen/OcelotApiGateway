@@ -1,0 +1,34 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\ReservationApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\ReservationApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\refint\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\ref\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\ReservationApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\ReservationApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\bin\Debug\net6.0\RezervationApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\refint\RezervationApi.Services.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\RezervationApi.Services.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\RezervationApi.Services\obj\Debug\net6.0\ref\RezervationApi.Services.dll

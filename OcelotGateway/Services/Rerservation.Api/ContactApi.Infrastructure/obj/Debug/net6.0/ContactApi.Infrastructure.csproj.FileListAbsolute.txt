@@ -1,0 +1,30 @@
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.deps.json
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\refint\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Web Api\ProductApi\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ref\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.deps.json
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Models.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\bin\Debug\net6.0\ContactApi.Models.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.csproj.CopyComplete
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\refint\ContactApi.Infrastructure.dll
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ContactApi.Infrastructure.pdb
+C:\Users\Ersen\Desktop\Ocelot\OcelotGateway\Services\Rerservation.Api\ContactApi.Infrastructure\obj\Debug\net6.0\ref\ContactApi.Infrastructure.dll
